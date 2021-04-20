@@ -32,8 +32,6 @@
                         <target>1.6</target>
                         </configuration>
 			<artifactId>maven-javadoc-plugin</artifactId>
-                        <source>3.2.0</source>
-                        <target>3.2.0</target>
 			<executions>
 				<execution>
 					<id>attach-javadocs</id>
