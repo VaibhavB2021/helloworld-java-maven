@@ -54,6 +54,10 @@
         <url>http://15.206.166.202:8081/repository/all/</url>
     </snapshotRepository>
 </distributionManagement>
+<properties>
+  <maven.compiler.source>1.6</maven.compiler.source>
+  <maven.compiler.target>1.6</maven.compiler.target>
+</properties>
 
 
 
