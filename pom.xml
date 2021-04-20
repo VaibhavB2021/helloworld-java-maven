@@ -25,6 +25,10 @@
 	<plugins>
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
+			<configuration>
+                        <source>1.6</source>
+                        <target>1.6</target>
+                        </configuration>
 			<artifactId>maven-javadoc-plugin</artifactId>
 			<executions>
 				<execution>
